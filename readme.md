@@ -1,4 +1,4 @@
-# The purpose if this frork
+# The purpose if this fork
 
 Snap tap support for Keychron Q11 based on this idea: https://www.reddit.com/r/MechanicalKeyboards/comments/1ec88th/comment/lfabt95/
 
