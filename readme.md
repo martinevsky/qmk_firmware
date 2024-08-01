@@ -1,3 +1,9 @@
+# Purpose if this frork
+
+Snap tap support based on this idea: https://www.reddit.com/r/MechanicalKeyboards/comments/1ec88th/comment/lfabt95/
+
+qmk compile -kb keychron/q11/ansi_encoder -km via
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
