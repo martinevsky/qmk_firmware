@@ -1,6 +1,6 @@
 # Purpose if this frork
 
-Snap tap support based on this idea: https://www.reddit.com/r/MechanicalKeyboards/comments/1ec88th/comment/lfabt95/
+Snap tap support for Keychron Q11 based on this idea: https://www.reddit.com/r/MechanicalKeyboards/comments/1ec88th/comment/lfabt95/
 
 qmk compile -kb keychron/q11/ansi_encoder -km via
 
